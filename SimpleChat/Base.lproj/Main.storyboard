@@ -128,7 +128,7 @@
                                     <color key="textColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                 </textAttributes>
                                 <items>
-                                    <navigationItem title="Title" id="UG0-P6-AJX">
+                                    <navigationItem title="Logout" id="UG0-P6-AJX">
                                         <barButtonItem key="leftBarButtonItem" systemItem="cancel" id="WWg-ox-mZy">
                                             <color key="tintColor" red="0.0" green="0.47843137250000001" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                             <connections>
